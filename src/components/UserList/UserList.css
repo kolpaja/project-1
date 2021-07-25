@@ -1,0 +1,19 @@
+.user-list {
+  width: 40rem;
+  margin: 0 auto;
+  color: black;
+  background-color: white;
+  width: 25rem;
+  padding: 20px;
+  border-radius: 10px;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+  padding: 3px 10px;
+  border: 1px solid rgb(168, 168, 240);
+  background-color: wheat;
+  border-radius: 5px;
+  margin: 10px auto;
+  width: 15rem;
+}
