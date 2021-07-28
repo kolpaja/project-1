@@ -1,0 +1,31 @@
+.Login {
+  background-color: white;
+  color: black;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid greenyellow;
+  border-radius: 10px;
+}
+.Login form {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  width: 60%;
+  margin: 10px 0;
+  line-height: 1.7;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+
+button {
+  width: 50%;
+  margin: 5px auto;
+  font-size: 15px;
+  font-weight: 700;
+}
+button:hover {
+  background-color: hotpink;
+  color: #333;
+}
